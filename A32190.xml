@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court at Whitehall, the fifteenth of May, 1672 present the Kings Most Excellent Majesty ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32190</idno>
+            <idno type="STC">Wing C2926</idno>
+            <idno type="STC">ESTC R35912</idno>
+            <idno type="EEBO-CITATION">15578901</idno>
+            <idno type="OCLC">ocm 15578901</idno>
+            <idno type="VID">103881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court at Whitehall, the fifteenth of May, 1672 present the Kings Most Excellent Majesty ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>In the Savoy [i.e. London] :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing number C2926 cancelled in Wing (CD-ROM, 1996); changed to Wing E843A.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:103881:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <dateline>At the Court at <hi>Whitehall,</hi> 
+                  <date>the Fifteenth of <hi>May, 1672.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <list>
+                  <head>Preſent,</head>
+                  <item>The Kings moſt Excellent Majeſty.</item>
+                  <item>Lord Archbiſhop of Canterbury</item>
+                  <item>Lord Keeper</item>
+                  <item>Duke of Lauderdale</item>
+                  <item>Marquiſs of Worceſter</item>
+                  <item>Earl of Bridgwater</item>
+                  <item>Earl of Eſſex</item>
+                  <item>Earl of Angleſey</item>
+                  <item>Earl of Bathe</item>
+                  <item>Earl of Carliſle</item>
+                  <item>Earl of Craven</item>
+                  <item>Earl of Arlington</item>
+                  <item>Earl of Shaftsbury</item>
+                  <item>Lord Newport</item>
+                  <item>Lord Holles</item>
+                  <item>Lord Cl'fford</item>
+                  <item>Mr. Vice-Chamberlain</item>
+                  <item>Mr. Secretary Trevor</item>
+                  <item>Sir John Duncombe</item>
+                  <item>Mr. Chancellor of the Dutchy</item>
+                  <item>Sir Thomas Osborne</item>
+               </list>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Majeſty did the Seventeenth of <hi>March</hi> paſt, upon the reading in Coun<g ref="char:EOLhyphen"/>cil His Declaration of War againſt the <hi>States General of the <g ref="char:V">Ʋ</g>nited Provinces of the Low Coun<g ref="char:EOLhyphen"/>treys,</hi> Command His Grace the Duke of <hi>Lauderdale,</hi> and the Right Honou<g ref="char:EOLhyphen"/>rable
+<pb n="2" facs="tcp:103881:2"/>
+               <!-- PDF PAGE 14 -->the Earl of <hi>Arlington,</hi> Principal Secretary of State, to Confer that Even<g ref="char:EOLhyphen"/>ing with the Ambaſſador and Miniſter of the ſaid States, to Propoſe the Ob<g ref="char:EOLhyphen"/>ſervance of the Two and thirtieth Arti<g ref="char:EOLhyphen"/>cle of the Treaty of <hi>Breda,</hi> on His Ma<g ref="char:EOLhyphen"/>jeſties part, for the withdrawing the Perſons and Goods of all <hi>Dutch</hi> Subjects which were either found here, or at that time were volun<g ref="char:EOLhyphen"/>tarily coming into His Majeſties Ports; Provided His Majeſties Sub<g ref="char:EOLhyphen"/>jects might have the ſame Benefit of the ſaid Article; Which overture hath been often Renewed by the Earl of <hi>Arlington</hi> to the ſaid Ambaſſador. And it appearing now at length, by a Paper from him of the 14/24. inſtant (this day read at the Board) That the States have conſented to the ſaid Propoſition, and will ſet at Liberty all His Maje<g ref="char:EOLhyphen"/>ſties Subjects, with their Ships and Goods, and that they may return with<g ref="char:EOLhyphen"/>out any Prohibition, when they ſhall ſee fit.</p>
+            <p>His Majeſty hath thought fit to Command and Order the Right Ho<g ref="char:EOLhyphen"/>nourable His Principal Commiſſioners of Prizes, forthwith to cauſe all the
+<pb n="3" facs="tcp:103881:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->Ships, Goods, and Merchandizes that were Seiſed in any of His Majeſties Ports, before the Declaration of the War, or which were voluntarily com<g ref="char:EOLhyphen"/>ing in to the ſame, to be forthwith ſet at Liberty and Diſcharged (they ha<g ref="char:EOLhyphen"/>ving remained ſtill untouched, in ex<g ref="char:EOLhyphen"/>pectation of what the ſaid States would do in this point.) In like manner all perſons belonging to the ſaid Ships, who are under Detention by reaſon of the War, are to be forthwith ſet at Li<g ref="char:EOLhyphen"/>berty, with Power to return with their Ships and Merchandize, when they ſhall ſee fit, according to the Tenor of the ſaid Article; And notice hereof to be given to the <hi>Dutch</hi> Ambaſſador, that it may be as ingeniouſly perform<g ref="char:EOLhyphen"/>ed on his Maſters part as it is now pro<g ref="char:EOLhyphen"/>miſed. And His Majeſties Commiſ<g ref="char:EOLhyphen"/>ſioners for the care of Priſoners, are required to take notice hereof, and to give Obedience accordingly.</p>
+            <p>And whereas by another Paper of the 11/23. inſtant (this day alſo read at the Board) from the <hi>Sieur Boreel,</hi> by Order of the ſaid <hi>States General of the <g ref="char:V">Ʋ</g>nited Provinces,</hi> Propoſing to en<g ref="char:EOLhyphen"/>ter into ſome terms of Agreement
+<pb n="4" facs="tcp:103881:3"/>
+               <!-- PDF PAGE 15 -->touching the Exchange of Priſoners of War on either ſide, His Majeſty hath thought fit to Refer the Conſideration of this matter to the Principal Com<g ref="char:EOLhyphen"/>miſſioners of Prizes, that they may Conſider thereof, and Propoſe to His Majeſty ſuch Expedients as they ſhall think fit.</p>
+            <p>Likewiſe all <hi>Dutch</hi> Merchants or others, who neither in their Perſons or Goods are under this Detention, may freely depart the Kingdom, if they think fit, without any incum<g ref="char:EOLhyphen"/>brance or moleſtation.</p>
+            <closer>
+               <signed>Edw. Walker.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>It was Ordered by His Majeſty in Council, That this be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>Edw. Walker.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſsigns of <hi>John Bill</hi> and <hi>Chriſto<g ref="char:EOLhyphen"/>pher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
